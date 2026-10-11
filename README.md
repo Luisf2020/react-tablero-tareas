@@ -61,8 +61,6 @@ Publicado con GitHub Pages (rama `gh-pages`).
 **Luis Felipe Zuniga Leon** — Desarrollador de software asistido por IA
 
 - GitHub: <https://github.com/Luisf2020>
-- Correo: developerluis2@gmail.com
-- WhatsApp: +504 3237 0056
 
 ---
 
