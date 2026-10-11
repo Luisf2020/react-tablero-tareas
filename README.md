@@ -1,6 +1,6 @@
 # react-tablero-tareas
 
-![stack: React 18](https://img.shields.io/badge/stack--React%2018-0d9488?style=flat-square) ![stack: Vite](https://img.shields.io/badge/stack--Vite-0d9488?style=flat-square) ![stack: Vitest](https://img.shields.io/badge/stack--Vitest-0d9488?style=flat-square)
+![stack: React 18](https://img.shields.io/badge/stack--React%2018-0d9488?style=flat-square) ![stack: Vite](https://img.shields.io/badge/stack--Vite-0d9488?style=flat-square) ![stack: Vitest](https://img.shields.io/badge/stack--Vitest-0d9488?style=flat-square) [![Demo](https://img.shields.io/badge/demo-en%20vivo-22c55e?style=flat-square)](https://luisf2020.github.io/react-tablero-tareas/)
 ![IA: asistido](https://img.shields.io/badge/IA--asistido-6366f1?style=flat-square)
 
 Tablero de tareas en React: hook propio (useTasks), estado derivado y render de listas.
@@ -53,8 +53,8 @@ El nivel describe la complejidad tecnica del proyecto, no el grado de dominio de
 
 ## Despliegue
 
-Pendiente de construir y publicar.  
-El codigo fuente si esta disponible en este repositorio.
+Demo en vivo: <https://luisf2020.github.io/react-tablero-tareas/>  
+Publicado con GitHub Pages (rama `gh-pages`).
 
 ## Autor
 
