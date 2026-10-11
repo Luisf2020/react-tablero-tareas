@@ -1,0 +1,1 @@
+.board{max-width:520px;margin:3rem auto;font-family:system-ui,sans-serif}.meta{color:#64748b}li{display:flex;justify-content:space-between;gap:1rem;padding:.35rem 0}li.done span{text-decoration:line-through;opacity:.6}form{display:flex;gap:.5rem;margin:1rem 0}input{flex:1;padding:.5rem}
